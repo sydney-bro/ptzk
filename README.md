@@ -1,6 +1,4 @@
-# ZKsync Hardhat project template
-
-This project was scaffolded with [zksync-cli](https://github.com/matter-labs/zksync-cli).
+# pointless zksync OFT
 
 ## Project Layout
 
